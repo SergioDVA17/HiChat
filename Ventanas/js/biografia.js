@@ -1,3 +1,5 @@
+//ventana hecha para la mascota descartada de HiChatPlayer,es probable que se use en un futuro,no eliminar.
+
 document.addEventListener("DOMContentLoaded", function () {
     const audio = document.getElementById("audio");
     const btnMusica = document.getElementById("btnMusica");
